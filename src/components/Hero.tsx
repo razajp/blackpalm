@@ -69,7 +69,7 @@ export function Hero() {
           <motion.div variants={reveal} className="mb-7 flex items-center gap-3">
             <span className="h-px w-10 bg-accent" />
             <span className="text-[11px] font-semibold uppercase tracking-[0.18em] text-white/60">
-              Florida's Premier Logistics Solution
+              Florida's Premier Logistics Solution hero
             </span>
           </motion.div>
 
